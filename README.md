@@ -23,10 +23,10 @@
 
 
 <h2> Como funciona? </h2>
-<p>Em vez de cada etapa do preenchimento do imposto buscarmos as indormações em folhas/planilhas distintas, nesse primeiro momento focamos em juntar todas as informações necessáris em um único lugar (arquivo Importar_Dados).</p> 
-<p>Após essa estapa nosso código irá calcular, utilizando o Pandas, a média ponderada dos preços de cada ticker comprado e vendido, para que no final possamos declarar quanto de patrimônico temos em cada ticker.</p>
+<p>Em vez de cada etapa do preenchimento do imposto buscarmos as informações em folhas/planilhas distintas, nesse primeiro momento focamos em juntar todas as informações necessárias em um único lugar (arquivo Importar_Dados).</p> 
+<p>Após essa estapa nosso código irá calcular, utilizando o Pandas, a média ponderada dos preços de cada ticker comprado, vendido e a diferença deles para termos a quantidade exata de ativos, e para que no final possamos declarar quanto de patrimônico temos em cada ticker.</p>
 <p>Utilizaremos o Pyautogui e o Pyperclip para preencher as informações no programa da Receita Federal que teremos baixado. Em alguns pontos dos códigos, ele utiliza imagens, que estão na pasta "Imagens" para clicar no ponto desejado.</p>
-<p>O projeto <b>não é para preencher todo o imposto de renda</b>, foi desenvolvido para simplicar nosso trabalho. Exemplos do que ele preenche:</p>
+<p>O projeto <b>não é preencher todo o imposto de renda</b>, foi desenvolvido para simplicar nosso trabalho. Exemplos do que ele preenche:</p>
 <p>- Bens e Direiro</p>
 <p>- Redimentos não Tributáveis</p>
 <p>- Rendimentos Tributação exclusiva</p>
