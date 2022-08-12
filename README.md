@@ -32,5 +32,8 @@
 <p>- Rendimentos Tributação exclusiva</p>
 <p>- Investimento nos Estados Unidos</p>
 
-https://user-images.githubusercontent.com/104008210/184379255-eac09b2f-330b-42eb-a40e-1c2bc6153142.mov
+
+https://user-images.githubusercontent.com/104008210/184380088-29589d20-71fd-4dc1-a2df-206aa337cd82.mp4
+
+
 
